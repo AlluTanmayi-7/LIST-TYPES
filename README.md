@@ -8,7 +8,7 @@ list
 ```python code
 a=10
  print(a)
-![image](https://user-images.githubusercontent.com/84453418/142972320-20215ea1-e90c-4cd1-bf3f-82dcf4e275ef.png)
+![image](https://avatars.githubusercontent.com/u/84557062?v=4)
 |s.No|Name|Roll-no|Branch|
 |----|----|-------|------|
 |1|Dhanushya|520|CSE|
